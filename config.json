@@ -1,0 +1,9 @@
+{
+  "keys": {
+    "save": "ctrl+s",
+    "quit": "ctrl+q",
+    "next": "right",
+    "prev": "left",
+    "reload": "ctrl+r"
+  }
+}
